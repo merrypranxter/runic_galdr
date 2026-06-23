@@ -1,0 +1,22 @@
+# runic_galdr
+
+> 24 runes. A generative visual grammar of the Elder Futhark. Each rune encodes a sound and concept. Bindrunes overlay multiple runes for combined meaning. Galdr visualisation turns tonal values into resonance patterns. Includes a runic calendar wheel and simple divination spreads.
+
+**Archetype:** GRAMMAR. **Distinct from** `sephirotic_tree` (which focuses on sephirot) and `fourier_visual_synthesis` (a frequency-based visual synthesizer).
+
+## Adjacency
+- `sephirotic_tree` — both map symbolic systems to network-like visuals.
+- `fourier_visual_synthesis` — harmonic synthesis inspires galdr resonances.
+- `particle_systems` — dynamic flows could represent galdr energy.
+
+## Visual Targets
+- Minimalistic rune strokes drawn with straight lines.
+- Bindrunes that overlay multiple glyphs with slight offsets.
+- Radial resonance patterns modulated by rune frequencies.
+- A runic calendar wheel placing all 24 runes around a circle.
+- Random spreads of runes for divinatory layouts.
+
+## Technical Notes
+- Use WebGL or the 2D canvas for rendering.
+- Data: Each rune stores line segments, phonetic value, meaning, and a numeric frequency.
+- Tonal mapping: Frequencies are arbitrary values used to animate resonance patterns.
