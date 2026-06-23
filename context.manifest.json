@@ -1,0 +1,12 @@
+{
+  "name": "runic_galdr",
+  "type": "GRAMMAR",
+  "title": "Runic Galdr — 24 Runes as Generative Grammar",
+  "brief": "Elder Futhark rune system as generative visual grammar. 24 runes with phonetic, symbolic and historical meanings. Bindrune composition overlays multiple runes for combined intent. Galdr visualization maps tonal values to rune resonance patterns. Includes runic calendar and divination spreads.",
+  "inputs": ["u_source"],
+  "outputs": ["plotted_curve"],
+  "tags": ["generator", "runic-galdr"],
+  "adjacency": [],
+  "status": "seed",
+  "batch": "D"
+}
